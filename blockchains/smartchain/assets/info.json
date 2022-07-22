@@ -1,0 +1,58 @@
+{
+    "name": "SOULS OF META",
+    "website": "https://SoulsOfMeta.io",
+    "description": "Cross-Game Fun-2-Earn (Play-Own-Earn + Free-2-Play) Multi-Chain NFT MetaVerse",
+    "explorer": "https://bscscan.com/token/0x603E65426d540cc9CE4FC2b0f7601f97616Bd970",
+    "type": "BEP20",
+    "symbol": "SOM",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x603E65426d540cc9CE4FC2b0f7601f97616Bd970",
+    "links": [
+	{
+            "name": "linktree",
+            "url": "https://linktr.ee/SoulsOfMeta"
+	},
+	{
+            "name": "news",
+            "url": "https://t.me/SoulsOfMetaOfficial"
+	},
+	{
+            "name": "community",
+            "url": "https://t.me/SoulsOfMeta"
+	},
+	{
+            "name": "twitter",
+            "url": "https://twitter.com/SoulsOfMeta"
+	},
+		{
+            "name": "discord",
+            "url": "https://discord.gg/zbkSV8BsQ9"
+	},
+	{
+            "name": "medium",
+            "url": "https://SoulsOfMeta.medium.com"
+	},
+	{
+            "name": "youtube",
+            "url": "https://www.youtube.com/SoulsOfMeta?sub_confirmation=1"
+	},
+	{
+            "name": "instagram",
+            "url": "https://instagram.com/SoulsOfMeta"
+	},
+		{
+            "name": "facebook",
+            "url": "https://facebook.com/SoulsOfMeta"
+	},
+	{
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/soulsofmeta/"
+	},
+	{
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/soulsofmeta"
+	}
+ 	 ],
+    "tags": ["GameFi","MetaVerse","DAO","Play2Earn","Fun2Earn","NFT"]
+}
